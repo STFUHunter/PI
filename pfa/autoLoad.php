@@ -1,6 +1,7 @@
 <?php
 
     spl_autoload_register(function($className){
+        //definition de la racine 
         $basePath = __DIR__ . "/App/";
         $prefix = "App\\";
 
