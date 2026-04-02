@@ -15,7 +15,7 @@
                 <button class="btn btn-outline-success" type="submit">Search</button>
             </form>
             <div>
-                <a href="login">Se connecter</a>
+                <span class="d-none d-sm-inline ms-2"><a href="login" class="btn btn-outline-primary">Se connecter</a></span>
             </div>
         </div>
     </div>
